@@ -5,11 +5,11 @@ MySql Server 8.0
 QT 6.6.2 (Vous aurez besoin de la version physique et non en ligne)
 
 # Démonstration
-Suivez les liens contenue dans le fichiers vidéos
+lien vers les vidéos.txt
 
 # Installation
 
-Visionnez la vidéo intitulée : installation, faites par ma camarade Vanessa
+Visionnez la vidéo intitulée : installation, faites par ma camarade
 Elle vous expliquera comment importer une bibliothèque mysql pour que
 votre QT puisse se connecter à votre localHost
 
@@ -26,6 +26,13 @@ variables soient pareils que celles de votre base de donnée
 
 
 # Le Projet
+
+Une fois lancée, vous arriverez sur une page de connexion,
+Il y a 3 interfaces différentes en fonction du type d'utilisateur
+Admin, Employé et Client.
+
+Attention pour se connecter avec un compte employé, il faut rentrer
+son poste pour l'email puis son numéro d'employé pour le mot de passe
 
 Une fois lancée, vous arriverez sur une page de connexion,
 Il y a 3 interfaces différentes en fonction du type d'utilisateur
